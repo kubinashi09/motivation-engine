@@ -106,7 +106,7 @@ Rather than keep refining the concept indefinitely, I'd rather get feedback from
 
 ---
 **[LICENSE & CONTACT]**
-**This work is made available under the [MIT License](LICENSE.md).** We encourage review and discussion, provided the original authorship is retained.
+**This work is made available under the [MIT License](LICENSE).** We encourage review and discussion, provided the original authorship is retained.
 **For serious technical inquiries or partnership proposals, please contact [tks.yonezawa@gmail.com].**
 
 *This comes from someone who identifies patterns but doesn't implement them. The concept might be completely wrong about technical feasibility, but the core problem seems real enough that someone will probably solve it.*
